@@ -1,0 +1,3 @@
+/home/irbis/CLionProjects/TestGitHub/cmake-build-debug/CMakeFiles/TestGitHub.dir
+/home/irbis/CLionProjects/TestGitHub/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/irbis/CLionProjects/TestGitHub/cmake-build-debug/CMakeFiles/rebuild_cache.dir
